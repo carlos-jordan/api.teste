@@ -1,0 +1,1 @@
+alter table atendimento change requisicao requisição varchar(100) not null;

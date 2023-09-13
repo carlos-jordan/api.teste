@@ -1,0 +1,1 @@
+alter table atendimento change nivel Nível varchar(20) not null;

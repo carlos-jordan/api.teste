@@ -1,0 +1,1 @@
+alter table atendimento drop Nível;
